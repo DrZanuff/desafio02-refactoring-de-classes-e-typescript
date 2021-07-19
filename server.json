@@ -9,19 +9,11 @@
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
     },
     {
-      "id": 2,
-      "name": "Veggie",
-      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
-      "price": "21.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
-    },
-    {
       "id": 3,
-      "name": "A la Camarón",
-      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
+      "name": "A la Camarón, no coma esto",
+      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares. És ruim",
       "price": "25.90",
-      "available": false,
+      "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
     },
     {
@@ -31,6 +23,30 @@
       "description": "Yakisoba!!!!",
       "available": true,
       "id": 4
+    },
+    {
+      "image": "https://pbs.twimg.com/profile_images/1121395911849062400/7exmJEg4.png",
+      "name": "Svelte a Moda",
+      "price": "0.0",
+      "description": "Coma su Svelte, és mui bueno!",
+      "available": false,
+      "id": 5
+    },
+    {
+      "image": "",
+      "name": "Other Food 3",
+      "price": "Where?",
+      "description": "123",
+      "available": false,
+      "id": 6
+    },
+    {
+      "image": "",
+      "name": "Massa",
+      "price": "300",
+      "description": "Bom",
+      "available": true,
+      "id": 7
     }
   ]
 }
