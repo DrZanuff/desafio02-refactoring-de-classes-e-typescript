@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://receitas.ninja/wp-content/uploads/2020/07/yakisoba.jpeg",
+      "name": "Yakisoba",
+      "price": "15.50",
+      "description": "Yakisoba!!!!",
+      "available": true,
+      "id": 4
     }
   ]
 }
